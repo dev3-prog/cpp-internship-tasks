@@ -7,3 +7,6 @@ Task1_NumberGuessingGame.ilk
 Task2_SimpleCalculator.ilk
 Task2_SimpleCalculator.obj
 Task2_SimpleCalculator.pdb
+*.ilk
+Task3_TicTacToe.obj
+Task3_TicTacToe.pdb
