@@ -21,4 +21,4 @@ This repository contains beginner C++ console projects created for internship pr
 C++
 
 ## Author
-Barun Kumar Malik
+Debabrata Pradhan
